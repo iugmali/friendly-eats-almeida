@@ -17,3 +17,5 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FRIENDLY_EATS_ALMEIDA }}'
           channelId: live
           projectId: friendly-eats-almeida
+        env:
+          FIREBASE_CLI_EXPERIMENTS: webframeworks

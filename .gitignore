@@ -1,0 +1,8 @@
+/src/lib/firebase/config.js
+
+.next/
+.firebase/
+.idea
+node_modules
+
+.env
